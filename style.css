@@ -1,0 +1,55 @@
+body{
+    background-color: #D1E9FF;
+}
+
+
+/* header */
+.name {
+    font-family: Rock3D-Regular;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    background-color: #09243D;
+}
+
+.header {
+
+    background-color: #09243D;
+    height: 300;
+    
+    
+}
+
+
+/* nav bar */
+#nav-buttons button{
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    color: white;
+    background-color: #572458;
+    border-width: 0;
+    font-family: "Arial Black";
+    font-size: 20px;
+    padding: 10px 30px;
+    transition:  background-color .5s, color .5s
+    
+}
+
+#nav-buttons button:hover{
+background-color:#F090F0;
+color: black;
+}
+
+
+p{
+    font-family: Andada Pro;
+    font-size: 50px;
+    color: #09243D;
+    font-style: bold;
+    text-align: left;
+    padding: 50px;
+}
+
+
+
